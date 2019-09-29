@@ -1,0 +1,10 @@
+C:\Users\neodi\source\repos\Diceroll5e\Diceroll5e\bin\Debug\Diceroll5e.exe.config
+C:\Users\neodi\source\repos\Diceroll5e\Diceroll5e\bin\Debug\Diceroll5e.exe
+C:\Users\neodi\source\repos\Diceroll5e\Diceroll5e\bin\Debug\Diceroll5e.pdb
+C:\Users\neodi\source\repos\Diceroll5e\Diceroll5e\obj\Debug\Diceroll5e.csprojResolveAssemblyReference.cache
+C:\Users\neodi\source\repos\Diceroll5e\Diceroll5e\obj\Debug\Diceroll5e.Diceroller.resources
+C:\Users\neodi\source\repos\Diceroll5e\Diceroll5e\obj\Debug\Diceroll5e.Properties.Resources.resources
+C:\Users\neodi\source\repos\Diceroll5e\Diceroll5e\obj\Debug\Diceroll5e.csproj.GenerateResource.Cache
+C:\Users\neodi\source\repos\Diceroll5e\Diceroll5e\obj\Debug\Diceroll5e.csproj.CoreCompileInputs.cache
+C:\Users\neodi\source\repos\Diceroll5e\Diceroll5e\obj\Debug\Diceroll5e.exe
+C:\Users\neodi\source\repos\Diceroll5e\Diceroll5e\obj\Debug\Diceroll5e.pdb
