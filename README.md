@@ -7,12 +7,16 @@ Windows Form Application - C#
 
 
 Rolls 6 sets of dice, each set contains 4 x 6 sided dice.
+
 The lowest die in each set is discarded.
+
 The total of each set is calculated by adding together the three highest die.
 
 
 The entire thing is looped and checked at the end.
+
 If the 6 scores do not add up to at least 70 points, the dice are re-rolled until it does.
+
 This ensures you wont have scores that are awful.
 
 
